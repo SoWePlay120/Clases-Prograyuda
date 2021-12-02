@@ -1,0 +1,11 @@
+D:\Prograyuda\clases\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Prograyuda\clases\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Prograyuda\clases\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Prograyuda\clases\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
